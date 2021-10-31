@@ -1,1 +1,1 @@
-Computer-and Network Security-Project
+ Bilgisayar-ve Ağ Güvenliği-Projesi
