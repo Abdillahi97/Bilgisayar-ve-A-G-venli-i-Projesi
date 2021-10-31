@@ -1,1 +1,1 @@
- Bilgisayar-ve-A-G-venli-i-Projesi
+ Bilgisayar-ve Ağ Güvenliği-Projesi
